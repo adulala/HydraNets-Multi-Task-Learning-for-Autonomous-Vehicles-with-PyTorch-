@@ -2,7 +2,7 @@
 
 HydraNets, named for the multi-headed mythical creature, represent a significant advancement in the field of computer vision, especially in applications like autonomous driving. Here's a breakdown of the main points about HydraNets and their application:
 
-![Alt text for your GIF](gif-url.gif)
+![https://github.com/adulala/HydraNets-Multi-Task-Learning-for-Autonomous-Vehicles-with-PyTorch-/blob/master/resized_Hydranet.png](https://github.com/adulala/HydraNets-Multi-Task-Learning-for-Autonomous-Vehicles-with-PyTorch-/blob/master/Hydranet-min-min.gif)
 
 #### Concept of HydraNets
 1. **Multi-Head Architecture**: HydraNets utilize a multi-headed architecture where a single 'body' (the base network) branches out into multiple 'heads' (specialized sub-networks). Each head is responsible for a different task, such as object detection, segmentation, or depth estimation.
