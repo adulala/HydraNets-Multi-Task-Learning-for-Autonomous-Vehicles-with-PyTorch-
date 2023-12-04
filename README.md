@@ -1,6 +1,8 @@
-### Introduction to HydraNets in Computer Vision
+### Unveiling the Role of HydraNets in Autonomous Vehicle Technology
 
 HydraNets, named for the multi-headed mythical creature, represent a significant advancement in the field of computer vision, especially in applications like autonomous driving. Here's a breakdown of the main points about HydraNets and their application:
+
+![Alt text for your GIF](gif-url.gif)
 
 #### Concept of HydraNets
 1. **Multi-Head Architecture**: HydraNets utilize a multi-headed architecture where a single 'body' (the base network) branches out into multiple 'heads' (specialized sub-networks). Each head is responsible for a different task, such as object detection, segmentation, or depth estimation.
